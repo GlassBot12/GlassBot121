@@ -1,0 +1,9 @@
+{
+	"ip":"GrassBerryMC.aternos.me",
+	"port": 27232,
+	"name": "GlassBot12",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 111111",
+	"login-cmd":"/login 111111"
+}

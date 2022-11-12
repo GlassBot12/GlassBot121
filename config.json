@@ -1,0 +1,9 @@
+{
+	"ip":"dragoncoolsmp.aternos.me",
+	"port": 37082,
+	"name": "DragonSMPBOT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 111111",
+	"login-cmd":"/login 111111"
+}
